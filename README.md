@@ -1,1 +1,1 @@
-# graphql-subscriptions-vs-polling
+# graphql-subscriptions-poc
